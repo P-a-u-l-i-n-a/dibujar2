@@ -1,0 +1,24 @@
+.fondo{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size:contain;
+}
+body{
+    cursor:pointer;
+}
+h1{
+    color: rgb(43, 130, 142);
+    font-size: 40px;
+    font-family: 'Ghusrak', sans-serif;
+}
+#pizarron{
+    background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+}
+button{
+    background-color: rgb(55, 134, 55);
+    border-width: 0px;
+    padding: 10px;
+    color: white;
+}
